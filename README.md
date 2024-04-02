@@ -1,2 +1,6 @@
 This repository will show you a basic git workflow for individuals or small teams
 This is the second line of this file
+I add one more line
+
+I made this change from the merge conflict branch
+
